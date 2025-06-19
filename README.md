@@ -1,8 +1,8 @@
-# Formation Alyra Développeur Intelligence Artificielle
+# Formation Alyra - Développeur Intelligence Artificielle
 # Projet de Machine Learning
 
 ## Sujet : Estimation du prix de mise à la vente d'un logement (Italie 2022)
-## dataset : https://www.kaggle.com/datasets/tangelus/housing-data-in-italy-august-2022/data
+## Dataset : https://www.kaggle.com/datasets/tangelus/housing-data-in-italy-august-2022/data
 ## Type : Prédiction de variables continues à partir d'un apprentissage supervisé
 ## Date : Juin / Juillet 2025
 ## Auteur : Yves Toiser
@@ -28,6 +28,7 @@ Avec les résultats des différents modèles couplés avec les différents jeux 
 
 ## 2. Traitement des Données : 
 ### Nettoyage des Données
+- Suppression des données inutiles  
 - Suppression des lignes et colonnes avec trop de valeurs manquantes (ou valeurs clés)
 - Traitement des outliers
 - Imputation de données manquantes
