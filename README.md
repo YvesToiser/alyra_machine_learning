@@ -24,7 +24,7 @@ A l'issue du traitement des données, on sélectionnera plusieurs jeux de donné
 Avec les résultats des différents modèles couplés avec les différents jeux de données, on sélectionnera les stratégies d'optimisations.
 
 ## 1. Exploration des Données :
-
+- Explorer les données
 
 ## 2. Traitement des Données : 
 ### Nettoyage des Données
